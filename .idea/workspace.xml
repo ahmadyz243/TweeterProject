@@ -4,44 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f345be4f-fb1d-4ae6-8710-26ee09846f0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Base/Entity/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Base/Repository/BaseRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Base/Repository/BaseRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Base/Service/BaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Base/Service/BaseServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entity/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entity/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entity/Likes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entity/Twitt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Repository/AccountRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Repository/CommentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Repository/Impl/AccountRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Repository/Impl/CommentRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Repository/Impl/LikesRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Repository/Impl/TwittRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Repository/LikesRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Repository/TwittRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Service/CommentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Service/Impl/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Service/Impl/CommentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Service/Impl/LikesServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Service/Impl/TwittServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Service/LikesService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Service/TwittService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Twitter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Util/AppContex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Util/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Util/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+    <list default="true" id="f345be4f-fb1d-4ae6-8710-26ee09846f0c" name="Changes" comment="Tweeter Project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,8 +110,16 @@
       <workItem from="1658320865202" duration="2527000" />
       <workItem from="1658324010438" duration="1475000" />
       <workItem from="1658579227149" duration="186000" />
-      <workItem from="1663007730049" duration="614000" />
+      <workItem from="1663007730049" duration="1691000" />
     </task>
+    <task id="LOCAL-00001" summary="Tweeter Project">
+      <created>1663008601211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663008601211</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,5 +135,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tweeter Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tweeter Project" />
   </component>
 </project>
